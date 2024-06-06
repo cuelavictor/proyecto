@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(Fondo.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;    
+}
+
+h1{
+    text-align: center;
+    font-family: lato;
+    margin: 50px 0px;
+    font-size: 10rem;
+
+}
+h3{
+    text-align: center;
+    font-family: lato;
+    margin: 50px 0px;
+    font-size: 10rem;
+
+}
+
+.container{
+    text-align: center;
+    width: 90vw;
+    max-width: 1700px;
+    min-width: 320px;
+    margin: auto;
+}
+
+
+
+h2{
+    
+    text-align: center;
+    padding: 25px;
+    border: 15px dotted #064430;
+    font-size: 3rem;
+
+
+}
